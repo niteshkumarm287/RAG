@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / caches
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+path/
+
+# Environment / secrets
+.env
+*.env
+
+# FAISS indexes / model caches
+*.faiss
+*.index
+.cache/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
