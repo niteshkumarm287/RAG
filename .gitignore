@@ -17,6 +17,8 @@ path/
 # FAISS indexes / model caches
 *.faiss
 *.index
+faiss_store/
+chroma_faiss/
 .cache/
 
 # OS / editor
